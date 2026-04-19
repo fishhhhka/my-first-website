@@ -638,7 +638,7 @@ img {
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(/img/svg/vector-icon.svg) no-repeat right center;
+    background: url(img/svg/vector-icon.svg) no-repeat right center;
 }
 
 .places__view-all:hover, .places__view-all:focus{
