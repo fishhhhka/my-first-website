@@ -607,12 +607,12 @@ img {
     line-height: 24px;
     color: #006DFE;
     text-decoration: none;
-    background: url(/img/svg/vector-icon.svg) no-repeat 95% center;
+    background: url(../img/svg/vector-icon.svg) no-repeat 95% center;
     transition: .2s all;
 }
 
 .benefits__card-more:hover, .benefits__card-more:focus{
-    background: url(/img/svg/vector-icon.svg) no-repeat right center;
+    background: url(../img/svg/vector-icon.svg) no-repeat right center;
 }
 /* Benefits styles end * /
 
@@ -638,7 +638,7 @@ img {
     color: #006DFE;
     text-decoration: none;
     padding-right: 59px;
-    background: url(img/svg/vector-icon.svg) no-repeat right center;
+    background: url(../img/svg/vector-icon.svg) no-repeat right center;
 }
 
 .places__view-all:hover, .places__view-all:focus{
